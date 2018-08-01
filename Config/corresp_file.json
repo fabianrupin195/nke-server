@@ -1,0 +1,10 @@
+{
+  "LoRa_GW_Link_File": {
+    "File_Names_To_Download": [
+      { "File_Name": "c_010_0008.json" },
+      { "File_Name": "c_0009_70B3D5E75F0000AB.json" },
+      { "File_Name": "c_0009_70B3D5E75E00AABB.json" },
+      { "File_Name": "p_010_0020.json" }
+    ]
+  }
+}

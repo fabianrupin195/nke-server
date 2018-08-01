@@ -1,0 +1,17 @@
+{
+  "LoRa_End_Device_Config_File": {
+    "Version": "01.00",
+    "End_Device_ID": {
+      "DevEUI": "70B3D5E75F0000D8"
+    },
+    "MAC_Info": {
+      "FPort": 125,
+      "FrmPayload": "1106005000000641800F801E050004000000"
+    },
+    "Alarm_Info": {
+      "Is_Alarm": 1,
+      "Reg_Ex": "^110A0050000641",
+      "Act_On_Alarm": 0
+    }
+  }
+}

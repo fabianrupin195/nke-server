@@ -1,0 +1,48 @@
+{
+  "LoRa_GW_Configuration_File": {
+    "Version": "01.00",
+    "Lan": {
+      "IPFixe": false,
+      "IPAddr": false,
+      "IPMask": false,
+      "IPGw": false
+    },
+    "Wwan": {
+      "PIN": "3033",
+      "PUK": "",
+      "IPType": "IP",
+      "APN": "websfr",
+      "APNUser": "",
+      "APNPwd": ""
+    },
+    "Time": {
+      "SNTPServer": "time.nist.gov",
+      "TimeZone": "Europe/Paris"
+    },
+    "Service": {
+      "DNSServer": "8.8.8.8",
+      "PFSUrl": "https://lora-gem.the-machine.xyz",
+      "PFSPort": 443,
+      "PFSUser": "",
+      "PFSPwd": "",
+      "PFSDataDirectory": "Data",
+      "PFSConfigDirectory": "Config",
+      "PFSLinkFileName": "corresp_file.json",
+      "PFSProvisionningFileName": "p_010_0100.json",
+      "PFSDataFilePeriodMinutes": 60,
+      "PFSLinkFilePeriodMinutes": 60,
+      "EndDeviceSilenceTimeOutHours": 25,
+      "FTPSUrl": "ftp://164.132.110.43",
+      "FTPSPort": 21,
+      "FTPSUser": "lora-gem",
+      "FTPSPwd": "CudiGhTE"
+    },
+    "Debug": {
+      "SSHServer": true,
+      "SSHPort": 8322,
+      "LogLevel": 2,
+      "WatchDog": true,
+      "LogUpload": false
+    }
+  }
+}
