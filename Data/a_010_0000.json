@@ -1,0 +1,10 @@
+{
+	"Alarm_File": {
+		"Descriptor": {
+			"Type": "GW_ALARM",
+			"Sub-Type": "POWER_CUT"
+		},
+		"Data": [
+		]
+	}
+}
