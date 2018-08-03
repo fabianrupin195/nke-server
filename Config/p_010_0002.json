@@ -1,6 +1,6 @@
 {
   "LoRa_GW_Allowed_End_Dev_File": {
-    "Version": "01.00",
+    "Version": "01.02",
     "End_Device_Objects": [
       {
         "End_Device_ID": {
