@@ -23,4 +23,3 @@ if (stristr($source_file, 'asso_request_') == FALSE) {
 // Send the answer
     echo $json_answer;
 }
-?>

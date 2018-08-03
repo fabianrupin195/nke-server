@@ -1,0 +1,21 @@
+{
+  "LoRa_GW_Allowed_End_Dev_File": {
+    "Version": "01.00",
+    "End_Device_Objects": [
+      {
+        "End_Device_ID": {
+          "DevEUI": "70B3D5E75E004D6F",
+          "DevAddr": "01004D6F"
+        },
+        "Asso_Infos": {
+          "Activation_Mode": "OTA",
+          "Class": "A"
+        },
+        "OTA_Fields": {
+          "AppEUI": "70B3D5E75F600000",
+          "AppKey": "4B7E151628AED2A6ABF7158809CF4F3C"
+        }
+      }
+    ]
+  }
+}

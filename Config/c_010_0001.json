@@ -21,7 +21,7 @@
     },
     "Service": {
       "DNSServer": "8.8.8.8",
-      "PFSUrl": "https://lora-gem.the-machine.xyz",
+      "PFSUrl": "https://nke-server.the-machine.xyz",
       "PFSPort": 443,
       "PFSUser": "",
       "PFSPwd": "",
@@ -29,8 +29,8 @@
       "PFSConfigDirectory": "Config",
       "PFSLinkFileName": "corresp_file.json",
       "PFSProvisionningFileName": "p_010_0100.json",
-      "PFSDataFilePeriodMinutes": 60,
-      "PFSLinkFilePeriodMinutes": 60,
+      "PFSDataFilePeriodMinutes": 5,
+      "PFSLinkFilePeriodMinutes": 5,
       "EndDeviceSilenceTimeOutHours": 25,
       "FTPSUrl": "ftp://164.132.110.43",
       "FTPSPort": 21,
@@ -39,10 +39,10 @@
     },
     "Debug": {
       "SSHServer": true,
-      "SSHPort": 8322,
+      "SSHPort": 22,
       "LogLevel": 2,
       "WatchDog": true,
-      "LogUpload": false
+      "LogUpload": true
     }
   }
 }
