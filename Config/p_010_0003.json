@@ -1,6 +1,6 @@
 {
   "LoRa_GW_Allowed_End_Dev_File": {
-    "Version": "01.02",
+    "Version": "01.03",
     "End_Device_Objects": [
       {
         "End_Device_ID": {
@@ -13,7 +13,7 @@
         },
         "OTA_Fields": {
           "AppEUI": "70B3D5E75F600000",
-          "AppKey": "4B7E151628AED2A6ABF7158809CF4F3C"
+          "AppKey": ""
         }
       }
     ]
