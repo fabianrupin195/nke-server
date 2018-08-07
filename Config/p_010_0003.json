@@ -8,11 +8,11 @@
           "DevAddr": "01004D6F"
         },
         "Asso_Infos": {
-          "Activation_Mode": "OTA",
+          "Activation_Mode": "ABP",
           "Class": "A"
         },
         "OTA_Fields": {
-          "AppEUI": "70B3D5E75F600000",
+          "AppEUI": "",
           "AppKey": ""
         }
       }

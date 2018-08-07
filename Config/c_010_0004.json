@@ -1,11 +1,11 @@
 {
   "LoRa_GW_Configuration_File": {
-    "Version": "01.03",
+    "Version": "01.04",
     "Lan": {
-      "IPFixe": false,
-      "IPAddr": false,
-      "IPMask": false,
-      "IPGw": false
+      "IPFixe": true,
+      "IPAddr": "192.168.1.66",
+      "IPMask": "255.255.255.0",
+      "IPGw": "192.168.1.1"
     },
     "Wwan": {
       "PIN": "3033",
@@ -39,7 +39,7 @@
     },
     "Debug": {
       "SSHServer": true,
-      "SSHPort": 22,
+      "SSHPort": 8322,
       "LogLevel": 2,
       "WatchDog": true,
       "LogUpload": true
