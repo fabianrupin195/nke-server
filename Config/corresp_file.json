@@ -2,9 +2,8 @@
   "LoRa_GW_Link_File": {
     "File_Names_To_Download": [
       { "File_Name": "c_010_0004.json" },
-      { "File_Name": "c_0003_70B3D5E75E004D6F.json" },
       { "File_Name": "asso_answer_70B3D5E75E004D6F.json" },
-      { "File_Name": "p_010_0003.json" }
+      { "File_Name": "p_010_0004.json" }
     ]
   }
 }

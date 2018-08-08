@@ -28,7 +28,7 @@
       "PFSDataDirectory": "Data",
       "PFSConfigDirectory": "Config",
       "PFSLinkFileName": "corresp_file.json",
-      "PFSProvisionningFileName": "p_010_0003.json",
+      "PFSProvisionningFileName": "p_010_0004.json",
       "PFSDataFilePeriodMinutes": 5,
       "PFSLinkFilePeriodMinutes": 5,
       "EndDeviceSilenceTimeOutHours": 25,
