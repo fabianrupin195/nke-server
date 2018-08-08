@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="00475c73-bdde-4bd3-b940-56e2ecfc81d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/c_0002_70B3D5E75E004D6F.json" beforeDir="false" />
@@ -8,6 +9,9 @@
       <change beforePath="$PROJECT_DIR$/Config/corresp_file.json" beforeDir="false" afterPath="$PROJECT_DIR$/Config/corresp_file.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/p_010_0003.json" beforeDir="false" afterPath="$PROJECT_DIR$/Config/p_010_0004.json" afterDir="false" />
     </list>
+=======
+    <list default="true" id="00475c73-bdde-4bd3-b940-56e2ecfc81d4" name="Default Changelist" comment="" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,18 +69,19 @@
     <session id="-702570990">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="9" />
+          <entry key="json" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="9" />
+          <entry key="JSON" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -125,19 +130,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Config/p_010_0004.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+=======
+        <entry file="file://$PROJECT_DIR$/Config/p_010_0003.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Config/c_010_0004.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
               <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+=======
+        <entry file="file://$PROJECT_DIR$/Config/c_010_0003.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Config/asso_answer_70B3D5E75E004D6F.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+=======
+        <entry file="file://$PROJECT_DIR$/Config/c_0002_70B3D5E75E004D6F.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -145,8 +179,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Config/asso_answer_70B3D5E75E004D6F.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="102">
+              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
             </state>
           </provider>
         </entry>
@@ -173,9 +208,14 @@
         <option value="$PROJECT_DIR$/Config/p_010_0002.json" />
         <option value="$PROJECT_DIR$/Config/c_010_0003.json" />
         <option value="$PROJECT_DIR$/Config/p_010_0003.json" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Config/c_010_0004.json" />
         <option value="$PROJECT_DIR$/Config/corresp_file.json" />
         <option value="$PROJECT_DIR$/Config/p_010_0004.json" />
+=======
+        <option value="$PROJECT_DIR$/Config/c_0002_70B3D5E75E004D6F.json" />
+        <option value="$PROJECT_DIR$/Config/c_010_0003.json" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
       </list>
     </option>
   </component>
@@ -262,20 +302,31 @@
       <workItem from="1533138092524" duration="2832000" />
       <workItem from="1533284949749" duration="1892000" />
       <workItem from="1533294539007" duration="2815000" />
+<<<<<<< HEAD
       <workItem from="1533560556064" duration="429000" />
       <workItem from="1533561762444" duration="1088000" />
       <workItem from="1533622728123" duration="139000" />
       <workItem from="1533628583780" duration="5451000" />
       <workItem from="1533712890740" duration="297000" />
+=======
+      <workItem from="1533560556064" duration="751000" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="14943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3192" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="8290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="134" y="35" width="3066" height="1765" extended-state="6" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2765043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,8 +382,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Config/asso_answer_70B3D5E75E004D6F.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Config/c_0002_70B3D5E75E004D6F.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="224">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
@@ -342,6 +401,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+=======
+        <state relative-caret-position="272">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/c_010_0003.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
         </state>
       </provider>
     </entry>
@@ -354,6 +424,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Config/corresp_file.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="80">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
@@ -363,6 +434,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+=======
+        <state relative-caret-position="510">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+>>>>>>> b84525f529ab59b606a8cb41f87665e013ede241
         </state>
       </provider>
     </entry>
