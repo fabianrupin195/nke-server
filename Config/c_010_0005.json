@@ -1,6 +1,6 @@
 {
   "LoRa_GW_Configuration_File": {
-    "Version": "01.04",
+    "Version": "01.05",
     "Lan": {
       "IPFixe": true,
       "IPAddr": "192.168.1.66",
