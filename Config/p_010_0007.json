@@ -1,6 +1,6 @@
 {
   "LoRa_GW_Allowed_End_Dev_File": {
-    "Version": "01.06",
+    "Version": "01.01",
     "End_Device_Objects": [
       {
         "End_Device_ID": {
@@ -14,6 +14,20 @@
         "ABP_Fields": {
           "NwkSKey": "258D396808C4696440632B8B3EA80802",
           "AppSKey": "3771595E6512532F6EFA098F59E872BB"
+        }
+      },
+      {
+        "End_Device_ID": {
+          "DevEUI": "0018B20000001346",
+          "DevAddr": "00001346"
+        },
+        "Asso_Infos": {
+          "Activation_Mode": "OTA",
+          "Class": "A"
+        },
+        "OTA_Fields": {
+          "AppEUI": "0018B243454E5331",
+          "AppKey": "10A321DB70407B76FF0FF8AB7A83F11E"
         }
       }
     ]
