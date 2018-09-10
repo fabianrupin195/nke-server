@@ -29,6 +29,20 @@
           "AppEUI": "0018B243454E5331",
           "AppKey": "10A321DB70407B76FF0FF8AB7A83F11E"
         }
+      },
+      {
+        "End_Device_ID": {
+          "DevEUI": "70B3D5E75E004D8A",
+          "DevAddr": "00004D8A"
+        },
+        "Asso_Infos": {
+          "Activation_Mode": "OTA",
+          "Class": "A"
+        },
+        "OTA_Fields": {
+          "AppEUI": "70B3D5E75F600000",
+          "AppKey": "75CE2FB8699E084209EC02F42FBD587A"
+        }
       }
     ]
   }
