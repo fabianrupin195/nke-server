@@ -1,6 +1,7 @@
 <?php
 // Set the destination directory
 $target_dir = "./Logs/";
+$target_data_dir = "./Logs/Data/nkeData/";
 // Get the date with the wanted format
 $date = date("Ymdhis");
 // Form the new file name of the file that will be saved
@@ -17,22 +18,28 @@ if( stristr($filename, "asso_request_") == FALSE )
     {
         $head = "data_";
         $devEUI = substr($filename, 2, 16);
+
+        $target_file = $target_data_dir . $head . $devEUI . $underscore . $date . $extension;
+
     }
     else if( stristr($filename, "a_") != FALSE )
     {
         $head = "alarm_";
         $devEUI = substr($filename, 2, 16);
+
+        $target_file = $target_dir . $head . $devEUI . $underscore . $date . $extension;
     }
     else if( stristr($filename, "topology_lora") != FALSE )
     {
         $head = "paired_devices";
         $devEUI = "";
-    }
 
-    $target_file = $target_dir . $head . $devEUI . $underscore . $date . $extension;
+        $target_file = $target_dir . $head . $devEUI . $underscore . $date . $extension;
+    }
 
     // Save this content in the new created file
     file_put_contents($target_file, $json_data);
+
 }
 else
 {
