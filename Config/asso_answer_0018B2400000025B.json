@@ -1,0 +1,8 @@
+{
+  "LoRa_GW_Asso_Answer_File": {
+    "End_Device_ID": {
+      "DevEUI": "0018B2400000025B"
+    },
+    "Asso_status": "OK"
+  }
+}

@@ -4,16 +4,16 @@
     "End_Device_Objects": [
       {
         "End_Device_ID": {
-          "DevEUI": "70B3D5E75E004D6F",
-          "DevAddr": "00004D6F"
+          "DevEUI": "0018B2400000025B",
+          "DevAddr": "0000025B"
         },
         "Asso_Infos": {
-          "Activation_Mode": "ABP",
+          "Activation_Mode": "OTA",
           "Class": "A"
         },
-        "ABP_Fields": {
-          "NwkSKey": "258D396808C4696440632B8B3EA80802",
-          "AppSKey": "3771595E6512532F6EFA098F59E872BB"
+        "OTA_Fields": {
+          "AppEUI": "0018B250554C5332",
+          "AppKey": "68BD3ADB492768CA73B3AD0D574429E6"
         }
       },
       {
@@ -32,16 +32,16 @@
       },
       {
         "End_Device_ID": {
-          "DevEUI": "70B3D5E75E004D8A",
-          "DevAddr": "00004D8A"
+          "DevEUI": "0018B22000000F38",
+          "DevAddr": "00000F38"
         },
         "Asso_Infos": {
           "Activation_Mode": "OTA",
           "Class": "A"
         },
         "OTA_Fields": {
-          "AppEUI": "70B3D5E75F600000",
-          "AppKey": "75CE2FB8699E084209EC02F42FBD587A"
+          "AppEUI": "0018B243454E5332",
+          "AppKey": "68F8D97F6DDB86C9F53A8D77E7E57B19"
         }
       }
     ]
